@@ -1,0 +1,1044 @@
+{
+    "songs": [
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 26,
+        "title": "Don't Blame Me",
+        "artists": [["Taylor Swift"]],
+        "album": "reputation",
+        "year": 2017
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 23,
+        "title": "So It Goes...",
+        "artists": [["Taylor Swift"]],
+        "album": "reputation",
+        "year": 2017
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 23,
+        "title": "Sofia",
+        "artists": ["Alvaro Soler"],
+        "album": "Eterno Agosto",
+        "year": 2016
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 21,
+        "title": "Bubblegum Bitch",
+        "artists": ["Marina"],
+        "album": "Electra Heart",
+        "year": 2012
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 20,
+        "title": "Crush",
+        "artists": ["Tessa Violet"],
+        "album": "Bad Ideas",
+        "year": 2019
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 19,
+        "title": "Big Boy",
+        "artists": ["Payday"],
+        "album": "House of P.U.K.E",
+        "year": 2021
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 19,
+        "title": "Delicate",
+        "artists": ["Taylor Swift"],
+        "album": "reputation",
+        "year": 2017
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 17,
+        "title": "Cigarette Ahegao",
+        "artists": ["Penelope Scott"],
+        "album": "Public Void",
+        "year": 2020
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 16,
+        "title": "Cruel Summer",
+        "artists": ["Taylor Swift"],
+        "album": "Lover",
+        "year": 2019
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 16,
+        "title": "fuK u lol",
+        "artists": ["Corpse"],
+        "album": "fuK u lol",
+        "year": 2022
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 16,
+        "title": "Look What You Made Me Do",
+        "artists": ["Taylor Swift"],
+        "album": "reputation",
+        "year": 2017
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 16,
+        "title": "This Is Why",
+        "artists": ["Paramore"],
+        "album": "This Is Why",
+        "year": 2022
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 15,
+        "title": "Dancing With Our Hands Tied",
+        "artists": ["Taylor Swift"],
+        "album": "reputation",
+        "year": 2017
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 15,
+        "title": "flowers & sex",
+        "artists": ["Emeline", "smle"],
+        "album": "flowers & sex",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 15,
+        "title": "Shit",
+        "artists": ["Bo Burnam"],
+        "album": "INSIDE",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 15,
+        "title": "Teen Idle",
+        "artists": ["Marina"],
+        "album": "Electra Heart",
+        "year": 2012
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 14,
+        "title": "Ayo",
+        "artists": ["Lolawolf"],
+        "album": "Calm Down",
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 14,
+        "title": "Boule de flipper",
+        "artists": ["Corynne Charby"],
+        "album": "Toi",
+        "year": 1987
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 14,
+        "title": "E-GIRLS ARE RUINING MY LIFE!",
+        "artists": ["Corpse", "Savage Ga$p"],
+        "album": "E-GIRLS ARE RUINING MY LIFE!",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 14,
+        "title": "Off to the Races",
+        "artists": ["Lana Del Rey"],
+        "album": "Born to Die",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 14,
+        "title": "This Hell",
+        "artists": ["Rina Sawayama"],
+        "album": "Hold the Girl",
+        "year": 2022
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 13,
+        "title": "All Too Well (10 Minute Version) (Taylor's Version) (From the Vault)",
+        "artists": ["Taylor Swift"],
+        "album": "Red (Taylor's Version)",
+        "year": 2021
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 13,
+        "title": "Blank Space",
+        "artists": ["Taylor Swift"],
+        "album": 1989,
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 13,
+        "title": "closure",
+        "artists": ["Taylor Swift"],
+        "album": "evermore",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 13,
+        "title": "Ours",
+        "artists": ["Taylor Swift"],
+        "album": "Speak Now",
+        "year": 2010
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 13,
+        "title": "Style",
+        "artists": ["Taylor Swift"],
+        "album": 1989,
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 13,
+        "title": "The Searcher",
+        "artists": ["Nuovo Testamento"],
+        "album": "New Earth",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 12,
+        "title": "Hawt Heart",
+        "artists": ["Born at Midnite"],
+        "album": "Born at Midnite",
+        "year": 2020
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 7,
+        "title": "Serotonin",
+        "artists": ["girl in red"],
+        "album": "if i could make it go quiet",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 7,
+        "title": "Siren",
+        "artists": ["SUNMI"],
+        "album": "WARNING",
+        "year": 2018
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 7,
+        "title": "Slip Away",
+        "artists": ["Perfume Genius"],
+        "album": "No Shape",
+        "year": 2017
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 7,
+        "title": "Truth Hurts",
+        "artists": ["Lizzo"],
+        "album": "Cuz I Love You",
+        "year": 2019
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 7,
+        "title": "Video Games",
+        "artists": ["Lana Del Rey"],
+        "album": "Born to Die",
+        "year": 2012
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 7,
+        "title": "We Are Never Ever Getting Back Together (Taylor's Version)",
+        "artists": ["Taylor Swift"],
+        "album": "Red (Taylor's Version)",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 7,
+        "title": "We Can't Stop",
+        "artists": ["Miley Cyrus"],
+        "album": "Bangerz",
+        "year": 2013
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 7,
+        "title": "Wonderland",
+        "artists": ["Taylor Swift"],
+        "album": 1989,
+        "year": 2014
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 7,
+        "title": "yaya (me time)",
+        "artists": ["Yubin"],
+        "album": "yaya (ME TIME)",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 7,
+        "title": "you should see me in a crown",
+        "artists": ["Billie Eilish"],
+        "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "year": 2019
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 6,
+        "title": "Almost Lover",
+        "artists": ["A Fine Frenzy"],
+        "album": "One Cell In The Sea",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Better Man (Taylor's Version) (From The Vault)",
+        "artists": ["Taylor Swift"],
+        "album": "Red (Taylor's Version)",
+        "year": 2021
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 6,
+        "title": "Black Magic",
+        "artists": ["Little Mix"],
+        "album": "Get Weird",
+        "year": 2015
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Born to Die",
+        "artists": ["Lana Del Rey"],
+        "album": "Born to Die",
+        "year": 2012
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 6,
+        "title": "Call It What You Want",
+        "artists": ["Taylor Swift"],
+        "album": "reputation",
+        "year": 2017
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 6,
+        "title": "Danser avec toi",
+        "artists": ["Arkells", "Cœur De Pirate", "Aly & AJ"],
+        "album": "Dance With You",
+        "year": 2022
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Fall In Love - Until The Ribbon Breaks Reimagination",
+        "artists": ["Phantogram", "Until The Ribbon Breaks"],
+        "album": "Fall in Love (Until The Ribbon Breaks Reimagination)",
+        "year": 2017
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 6,
+        "title": "Feel Better",
+        "artists": ["Penelope Scott"],
+        "album": "Public Void",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Fineshrine",
+        "artists": ["Purity Ring"],
+        "album": "Shrines",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "From Above",
+        "artists": ["Ben Folds", "Nick Hornby"],
+        "album": "Lonely Avenue",
+        "year": 2010
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Get on Your Knees (feat. Ariana Grande)",
+        "artists": ["Nicki Minaj", "Ariana Grande"],
+        "album": "The Pinkprint",
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Ghost Town",
+        "artists": ["The Specials"],
+        "album": "(non-album single)",
+        "year": 1981
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Ghosttown",
+        "artists": ["Madonna"],
+        "album": "Rebel Heart",
+        "year": 2015
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Gimme What I Want",
+        "artists": ["Miley Cyrus"],
+        "album": "Plastic Hearts",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Girls in Bikinis",
+        "artists": ["Poppy"],
+        "album": "Am I A Girl?",
+        "year": 2018
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 6,
+        "title": "Gossip",
+        "artists": ["Night Club"],
+        "album": "Die Die Lullaby",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Haunted",
+        "artists": ["Taylor Swift"],
+        "album": "Speak Now",
+        "year": 2010
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Hey Stephen (Taylor's Version)",
+        "artists": ["Taylor Swift"],
+        "album": "Fearless (Taylor's Version)",
+        "year": 2021
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 6,
+        "title": "hoax",
+        "artists": ["Taylor Swift"],
+        "album": "folklore",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "How to Be a Heartbreaker",
+        "artists": ["Marina"],
+        "album": "Electra Heart",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Hypocrates",
+        "artists": ["Marina"],
+        "album": "Electra Heart",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "I Forgot That You Existed",
+        "artists": ["Taylor Swift"],
+        "album": "Lover",
+        "year": 2019
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "I Was Married",
+        "artists": ["Tegan and Sara"],
+        "album": "The Con",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "I'm So Sick",
+        "artists": ["Flyleaf"],
+        "album": "Flyleaf",
+        "year": 2006
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Jump Then Fall (Taylor's Version)",
+        "artists": ["Taylor Swift"],
+        "album": "Fearless (Taylor's Version)",
+        "year": 2021
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 6,
+        "title": "Magic",
+        "artists": ["Coldplay"],
+        "album": "Ghost Stories",
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Me Too",
+        "artists": ["Meghan Trainor"],
+        "album": "Thank You",
+        "year": 2017
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 6,
+        "title": "Message In A Bottle (Fat Max G Remix) (Taylor's Version)",
+        "artists": ["Taylor Swift", "Fat Max Gsus"],
+        "album": "Message In A Bottle (Fat Max G Remix) (Taylor's Version)",
+        "year": 2022
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Cities Of Night",
+        "artists": ["Blaqk Audio"],
+        "album": "CexCells",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "City Girl",
+        "artists": ["Tegan and Sara"],
+        "album": "If It Was You",
+        "year": 2002
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Come Through",
+        "artists": ["The Regrettes"],
+        "album": "Attention Seeker",
+        "year": 2018
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Comfort Crowd",
+        "artists": ["Conan Gray"],
+        "album": "Kid Krow",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Complimenting Parts",
+        "artists": ["Campfire OK"],
+        "album": "Strange Like We Are",
+        "year": 2011
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Countdown",
+        "artists": ["Beyoncé"],
+        "album": 4,
+        "year": 2011
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Crazy on You",
+        "artists": ["Heart"],
+        "album": "Dreamboat Annie",
+        "year": 1975
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Crystal Ball",
+        "artists": ["P!nk"],
+        "album": "Funhouse",
+        "year": 2008
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 3,
+        "title": "DDU-DU DDU-DU",
+        "artists": ["BLACKPINK"],
+        "album": "SQUARE UP",
+        "year": 2018
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Death Is in the Air",
+        "artists": ["Sakima"],
+        "album": "Death Is in the Air",
+        "year": 2018
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Decoy - Live at the Congress Theatre, Chicago IL, 8/12/2008",
+        "artists": ["Paramore"],
+        "album": "The Final Riot!",
+        "year": 2008
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Don't Cry Out",
+        "artists": ["Shiny Toy Guns"],
+        "album": "We Are Pilots",
+        "year": 2006
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 3,
+        "title": "Don't Let Me Get Me",
+        "artists": ["P!nk"],
+        "album": "M!ssundaztood",
+        "year": 2001
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Getting Older",
+        "artists": ["Billie Eilish"],
+        "album": "Happier Than Ever",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Girl at Home",
+        "artists": ["Taylor Swift"],
+        "album": "Red (Taylor's Version)",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Girl Front",
+        "artists": ["Loona / Odd Eye Circle"],
+        "album": "Max & Match",
+        "year": 2017
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Glamorous",
+        "artists": ["Fergie"],
+        "album": "The Dutchess",
+        "year": 2006
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "God Only Knows",
+        "artists": ["The Beach Boys"],
+        "album": "Pet Sounds",
+        "year": 1966
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Going Away",
+        "artists": ["Meg & Dia"],
+        "album": "Here, Here and Here",
+        "year": 2009
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 2,
+        "title": "Gold (feat. Eighty4 Fly)",
+        "artists": ["Macklemore & Ryan Lewis", "Eighty4 Fly"],
+        "album": "The Heist",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Gone",
+        "artists": ["Lianne La Havas"],
+        "album": "Is Your Love Big Enough?",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Neon Cathedral",
+        "artists": ["Macklemore & Ryan Lewis"],
+        "album": "The Heist",
+        "year": 2012
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "People I Don't Like",
+        "artists": ["Upsahl"],
+        "album": "People I Don't Like",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Photographs & Memories",
+        "artists": ["Jim Croce"],
+        "album": "You Don't Mess Around with Jim",
+        "year": 1972
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pickin' Wildflowers",
+        "artists": ["Keith Anderson"],
+        "album": "Three Chord Country and American Rock & Roll",
+        "year": 2005
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pinch Me",
+        "artists": ["Barenaked Ladies"],
+        "album": "Maroon",
+        "year": 2000
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pink Cadillac",
+        "artists": ["Bruce Springsteen"],
+        "album": "Dancing in the Dark",
+        "year": 1983
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Plastic Stars",
+        "artists": ["Freezepop"],
+        "album": "Freezepop Forever",
+        "year": 2001
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 2,
+        "title": "Points of Authority",
+        "artists": ["Linkin Park"],
+        "album": "Hybrid Theory",
+        "year": 2000
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pompeii",
+        "artists": ["Bastille"],
+        "album": "Bad Blood",
+        "year": 2013
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 2,
+        "title": "Post Break-Up Sex",
+        "artists": ["The Vaccines"],
+        "album": "What Did You Expect from The Vaccines?",
+        "year": 2011
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Potential Breakup Song",
+        "artists": ["Aly & AJ"],
+        "album": "Insomniatic",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pour Some Sugar On Me",
+        "artists": ["Def Leppard"],
+        "album": "Hysteria",
+        "year": 1987
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Power",
+        "artists": ["Little Mix"],
+        "album": "Get Weird",
+        "year": 2015
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Prayer of the Refugee",
+        "artists": ["Rise Against"],
+        "album": "The Sufferer & The Witness",
+        "year": 2006
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pressed 2 Death",
+        "artists": ["Illuminati Hotties"],
+        "album": "Kiss Yr Frenemies",
+        "year": 2018
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pretty Handsome Awkward",
+        "artists": ["The Used"],
+        "album": "Lies for the Liars",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Prison Song",
+        "artists": ["System of a Down"],
+        "album": "Toxicity",
+        "year": 2001
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 2,
+        "title": "Problem",
+        "artists": ["Ariana Grande", "Iggy Azalea"],
+        "album": "My Everything",
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Psychosocial",
+        "artists": ["Slipknot"],
+        "album": "All Hope Is Gone",
+        "year": 2008
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Pumped Up Kicks",
+        "artists": ["Foster the People"],
+        "album": "Torches",
+        "year": 2011
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "PURGE ft. Siiickbrain",
+        "artists": ["WILLOW", "Siiickbrain"],
+        "album": "PURGE ft. Siiickbrain",
+        "year": 2022
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Put Your Records On",
+        "artists": ["Corinne Bailey Rae"],
+        "album": "Corinne Bailey Rae",
+        "year": 2006
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Where the Fence is Low",
+        "artists": ["Lights"],
+        "album": "Siberia",
+        "year": 2011
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Where Would You Like Them Left?",
+        "artists": ["Blaqk Audio"],
+        "album": "CexCells",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Where's the Bathroom? (feat. Tovah Feldshuh)",
+        "artists": ["Crazy Ex-Girlfriend Cast", "Tovah Feldshuh"],
+        "album": "Crazy Ex-Girlfriend: Season 1 (Original Television Soundtrack, Vol. 1)",
+        "year": 2016
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 2,
+        "title": "Wherever You Will Go",
+        "artists": ["The Calling"],
+        "album": "Camino Palmero",
+        "year": 2001
+    },
+    {
+        "lu": "2022-10-01T07:00:00.000Z",
+        "plays": 2,
+        "title": "Whirl",
+        "artists": ["Soft Kill"],
+        "album": "Choke",
+        "year": 2016
+    },
+    {
+        "lu": "2022-10-02T07:00:00.000Z",
+        "plays": 2,
+        "title": "Whiskey Lullaby (feat. Alison Krauss)",
+        "artists": ["Brad Paisley", "Alison Krauss"],
+        "album": "Mud On The Tires",
+        "year": 2003
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 2,
+        "title": "Whose Bed Have Your Boots Been Under",
+        "artists": ["Shania Twain"],
+        "album": "The Woman In Me",
+        "year": 1995
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Wild Honey Pie",
+        "artists": ["The Beatles"],
+        "album": "The Beatles (The White Album)",
+        "year": 1968
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "willow - dancing witch version (Elvira remix)",
+        "artists": ["Taylor Swift"],
+        "album": "willow [dancing witch version (Elvira remix)]",
+        "year": 2020
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "With Me Tonight",
+        "artists": ["The Used"],
+        "album": "Lies for the Liars",
+        "year": 2007
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Worth It (feat. Kid Ink)",
+        "artists": ["Fifth Harmony", "Kid Ink"],
+        "album": "Reflection",
+        "year": 2015
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "You And I",
+        "artists": ["Ingrid Michaelson"],
+        "album": "Be OK",
+        "year": 2008
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "You Don't Mess Around With Jim",
+        "artists": ["Jim Croce"],
+        "album": "You Don't Mess Around with Jim",
+        "year": 1972
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "You Stupid Bitch (feat. Rachel Bloom)",
+        "artists": ["Crazy Ex-Girlfriend Cast", "Rachel Bloom"],
+        "album": "Crazy Ex-Girlfriend: Season 1 (Original Television Soundtrack, Vol. 2)",
+        "year": 2016
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "You're Still the One",
+        "artists": ["Shania Twain"],
+        "album": "Come on Over",
+        "year": 1997
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Young Volcanoes",
+        "artists": ["Fall Out Boy"],
+        "album": "Save Rock and Roll",
+        "year": 2013
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "Zombie (Live from the NIVA Save Our Stages Festival)",
+        "artists": ["Miley Cyrus"],
+        "album": "Plastic Hearts",
+        "year": 2020
+    },
+    {
+        "lu": "2022-10-03T07:00:00.000Z",
+        "plays": 2,
+        "title": "까탈레나 (Catallena)",
+        "artists": ["Orange Caramel"],
+        "album": "THE THIRD SINGLE CATELLENA",
+        "year": 2014
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 2,
+        "title": "怪物 (Monster)",
+        "artists": ["YOASOBI"],
+        "album": "怪物",
+        "year": 2021
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 1,
+        "title": 8,
+        "artists": ["Billie Eilish"],
+        "album": "WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",
+        "year": 2019
+    },
+    {
+        "lu": "2022-09-30T07:00:00.000Z",
+        "plays": 1,
+        "title": 1950,
+        "artists": ["King Princess"],
+        "album": "Make My Bed",
+        "year": 2018
+    }
+]
+}
